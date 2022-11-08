@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4980c9ac2a6e0d26",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "docs/obsidian.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -157,8 +144,9 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "4980c9ac2a6e0d26",
+  "active": "69b4d9bf05cb78d7",
   "lastOpenFiles": [
-    "README.md"
+    "README.md",
+    "docs/obsidian.md"
   ]
 }

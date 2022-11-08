@@ -7,3 +7,4 @@
 - Can it be extended?
 - Is it open?
 - What the story on mobile?
+- How can I im-/export notes?
