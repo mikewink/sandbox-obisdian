@@ -4,18 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f9f7af1e6540ff84",
+        "id": "06578ee11854d20d",
         "type": "tabs",
         "children": [
           {
-            "id": "69b4d9bf05cb78d7",
+            "id": "426384aeaf256da1",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
-              "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -139,7 +136,7 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "69b4d9bf05cb78d7",
+  "active": "426384aeaf256da1",
   "lastOpenFiles": [
     "docs/mobile.md",
     "README.md",
